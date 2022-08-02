@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.288d1dd9.css",
-    "main.js": "/react-homework-template/static/js/main.baf89e89.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.288d1dd9.css.map": "/react-homework-template/static/css/main.288d1dd9.css.map",
-    "main.baf89e89.js.map": "/react-homework-template/static/js/main.baf89e89.js.map"
+    "main.css": "/https://github.com/ooligors/goit-react-hw-02-feedbackk.git/static/css/main.288d1dd9.css",
+    "main.js": "/https://github.com/ooligors/goit-react-hw-02-feedbackk.git/static/js/main.baf89e89.js",
+    "index.html": "/https://github.com/ooligors/goit-react-hw-02-feedbackk.git/index.html",
+    "main.288d1dd9.css.map": "/https://github.com/ooligors/goit-react-hw-02-feedbackk.git/static/css/main.288d1dd9.css.map",
+    "main.baf89e89.js.map": "/https://github.com/ooligors/goit-react-hw-02-feedbackk.git/static/js/main.baf89e89.js.map"
   },
   "entrypoints": [
     "static/css/main.288d1dd9.css",
